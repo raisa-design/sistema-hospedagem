@@ -1,0 +1,15 @@
+C:\Users\raisa\OneDrive\Área de Trabalho\Estudos Programação\Curso- React-dotnet\.Net-React\back\Sistema de hospedagem\Sistema de hospedagem\obj\Debug\net6.0\Sistema de hospedagem.csproj.AssemblyReference.cache
+C:\Users\raisa\OneDrive\Área de Trabalho\Estudos Programação\Curso- React-dotnet\.Net-React\back\Sistema de hospedagem\Sistema de hospedagem\obj\Debug\net6.0\Sistema de hospedagem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\raisa\OneDrive\Área de Trabalho\Estudos Programação\Curso- React-dotnet\.Net-React\back\Sistema de hospedagem\Sistema de hospedagem\obj\Debug\net6.0\Sistema de hospedagem.AssemblyInfoInputs.cache
+C:\Users\raisa\OneDrive\Área de Trabalho\Estudos Programação\Curso- React-dotnet\.Net-React\back\Sistema de hospedagem\Sistema de hospedagem\obj\Debug\net6.0\Sistema de hospedagem.AssemblyInfo.cs
+C:\Users\raisa\OneDrive\Área de Trabalho\Estudos Programação\Curso- React-dotnet\.Net-React\back\Sistema de hospedagem\Sistema de hospedagem\obj\Debug\net6.0\Sistema de hospedagem.csproj.CoreCompileInputs.cache
+C:\Users\raisa\OneDrive\Área de Trabalho\Estudos Programação\Curso- React-dotnet\.Net-React\back\Sistema de hospedagem\Sistema de hospedagem\bin\Debug\net6.0\Sistema de hospedagem.exe
+C:\Users\raisa\OneDrive\Área de Trabalho\Estudos Programação\Curso- React-dotnet\.Net-React\back\Sistema de hospedagem\Sistema de hospedagem\bin\Debug\net6.0\Sistema de hospedagem.deps.json
+C:\Users\raisa\OneDrive\Área de Trabalho\Estudos Programação\Curso- React-dotnet\.Net-React\back\Sistema de hospedagem\Sistema de hospedagem\bin\Debug\net6.0\Sistema de hospedagem.runtimeconfig.json
+C:\Users\raisa\OneDrive\Área de Trabalho\Estudos Programação\Curso- React-dotnet\.Net-React\back\Sistema de hospedagem\Sistema de hospedagem\bin\Debug\net6.0\Sistema de hospedagem.dll
+C:\Users\raisa\OneDrive\Área de Trabalho\Estudos Programação\Curso- React-dotnet\.Net-React\back\Sistema de hospedagem\Sistema de hospedagem\bin\Debug\net6.0\Sistema de hospedagem.pdb
+C:\Users\raisa\OneDrive\Área de Trabalho\Estudos Programação\Curso- React-dotnet\.Net-React\back\Sistema de hospedagem\Sistema de hospedagem\obj\Debug\net6.0\Sistema de hospedagem.dll
+C:\Users\raisa\OneDrive\Área de Trabalho\Estudos Programação\Curso- React-dotnet\.Net-React\back\Sistema de hospedagem\Sistema de hospedagem\obj\Debug\net6.0\refint\Sistema de hospedagem.dll
+C:\Users\raisa\OneDrive\Área de Trabalho\Estudos Programação\Curso- React-dotnet\.Net-React\back\Sistema de hospedagem\Sistema de hospedagem\obj\Debug\net6.0\Sistema de hospedagem.pdb
+C:\Users\raisa\OneDrive\Área de Trabalho\Estudos Programação\Curso- React-dotnet\.Net-React\back\Sistema de hospedagem\Sistema de hospedagem\obj\Debug\net6.0\Sistema de hospedagem.genruntimeconfig.cache
+C:\Users\raisa\OneDrive\Área de Trabalho\Estudos Programação\Curso- React-dotnet\.Net-React\back\Sistema de hospedagem\Sistema de hospedagem\obj\Debug\net6.0\ref\Sistema de hospedagem.dll
